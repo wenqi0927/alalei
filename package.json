@@ -12,6 +12,7 @@
   "dependencies": {
     "chromedriver": "^2.32.3",
     "jenkins-mocha": "^5.0.0",
+    "mocha": "^3.5.3",
     "mongodb": "^2.2.31",
     "selenium-webdriver": "^3.5.0"
   }
